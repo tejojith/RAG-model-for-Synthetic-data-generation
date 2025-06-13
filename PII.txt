@@ -1,0 +1,11 @@
+Here is the output in a .txt file format:
+
+gender - FALSE
+lunch - FALSE
+math_score - FALSE
+parental_level_of_education - FALSE
+reading_score - FALSE
+race_ethnicity - FALSE
+test_preparation_course - FALSE
+writing_score - FALSE
+----------------------------------------
