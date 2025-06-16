@@ -1,21 +1,15 @@
-Here is the synthetic data generated based on the provided data.csv:
-
-gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
-male,group A,bachelor's degree,standard,none,63,71,68
-female,group C,master's degree,free/reduced,completed,85,92,95
-male,group B,some college,standard,none,51,59,54
-female,group A,bachelor's degree,standard,none,78,84,81
-male,group C,associate's degree,free/reduced,none,67,75,72
-female,group B,master's degree,standard,completed,93,98,96
-male,group A,some college,standard,none,58,66,62
-female,group C,bachelor's degree,free/reduced,none,80,87,84
-male,group B,some college,standard,none,73,81,78
-female,group A,master's degree,standard,completed,91,97,94
-male,group C,bachelor's degree,free/reduced,none,61,69,65
-female,group B,some college,standard,none,82,89,86
-male,group A,associate's degree,standard,none,49,57,52
-female,group C,master's degree,standard,completed,95,100,98
-male,group B,bachelor's degree,free/reduced,none,71,79,76
-female,group A,some college,standard,none,75,83,80
-male,group C,master's degree,standard,none,84,91,88
-female,group B,associate's degree,free/reduced,none,68,76,73
+date_received,product,sub_product,issue,sub_issue,consumer_complaint_narrative,company_public_response,company,state,zipcode,tags,consumer_consent_provided,submitted_via,date_sent_to_company,company_response_to_consumer,timely_response,consumer_disputed?,complaint_id
+08/27/2022,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,CA,95992,,,Referral,09/01/2022,Closed with explanation,Yes,Yes,511075
+08/28/2022,Credit reporting,,Incorrect information on credit report,Account status,,,Wells Fargo & Company,NY,11765,,,Postal mail,09/19/2022,Closed with explanation,Yes,No,510476
+08/29/2022,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",MD,21403,,,Email,08/30/2022,Closed with explanation,Yes,Yes,510327
+08/30/2022,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,Resurgent Capital Services L.P.,GA,30107,,,Web,08/31/2022,Closed with explanation,Yes,Yes,511068
+09/01/2022,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,IL,60661,,,Referral,09/05/2022,Closed with explanation,Yes,No,511117
+08/31/2022,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,CA,91105,,,Phone,09/04/2022,Closed with explanation,Yes,Yes,511081
+09/02/2022,Credit card,,Application processing delay,,,,Capital One,NY,12207,,,Postal mail,09/06/2022,Closed with explanation,Yes,No,510099
+08/29/2022,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,CA,95991,,,Email,08/30/2022,Closed with explanation,Yes,Yes,511072
+09/03/2022,Bank account or service,Savings account,Deposits and withdrawals,,,,Bank of America,NY,12208,,,Web,09/04/2022,Closed with explanation,Yes,No,511118
+08/28/2022,Student loan,Federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",MD,21401,,,Phone,08/29/2022,Closed with explanation,Yes,Yes,510325
+09/04/2022,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,Resurgent Capital Services L.P.,GA,30105,,,Referral,09/07/2022,Closed with explanation,Yes,Yes,511070
+08/30/2022,Credit reporting,,Incorrect information on credit report,Account status,,,Wells Fargo & Company,NY,11763,,,Email,08/31/2022,Closed with explanation,Yes,No,510474
+09/01/2022,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,CA,91103,,,Postal mail,09/05/2022,Closed with explanation,Yes,Yes,511079
+08/29/2022,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,IL,60659,,,Phone,08/30/2022,Closed with explanation,Yes,No,511115

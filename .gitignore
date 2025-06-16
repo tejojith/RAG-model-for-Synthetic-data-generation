@@ -1,0 +1,50 @@
+# Node modules (for Node.js projects)
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+vendor/
+bower_components/
+
+# Build output
+dist/
+build/
+out/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+.env.*
+
+
+
+# Temporary files
+*.tmp
+*.swp
+
+# Ignore everything in temp folders
+temp/
+
+# Exception: keep this specific file
+!important.log
+
+# Comment example
+# Ignore coverage reports
+coverage/
+
+
+synthetic_data_20_records.csv
+synthetic_data_25_records.csv
+synthetic_data_30_records.csv
