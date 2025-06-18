@@ -1,26 +1,8 @@
-* company - FALSE (business identifier)
-* company_public_response - FALSE (text response from company, does not contain personal information)
-* complaint_id - FALSE (unique identifier for a complaint, does not contain personal information)
-* consumer_complaint_narrative - FALSE (narrative description of the complaint, does not contain personal information)
-* consumer_consent_provided - FALSE (boolean indicating whether consent was provided, does not contain personal information)
-* date_received - FALSE (timestamp, generally does not reveal personal patterns)
-* date_sent_to_company - FALSE (timestamp, generally does not reveal personal patterns)
-* email - TRUE (direct identifier: email address)
-* issue - FALSE (generic category: product type or status code)
-* location - FALSE (postal/ZIP codes alone do not contain identifying information)
-* product - FALSE (product code or category, does not contain personal information)
-* state - FALSE (postal/ZIP codes alone do not contain identifying information)
-* submitted_via - FALSE (method of submission, does not contain personal information)
-* sub_issue - FALSE (generic category: product type or status code)
-* sub_product - FALSE (product code or category, does not contain personal information)
-* tags - FALSE (keywords or categories, does not contain personal information)
-* timely_response - FALSE (boolean indicating whether response was timely, does not contain personal information)
-* zipcode - FALSE (postal/ZIP codes alone do not contain identifying information)
-
-Note that the following columns may contain PII in specific cases:
-
-* company: If a company name contains personal information (e.g., "John Smith's Bank"), it would be marked as TRUE. However, based on the provided data, this is not the case.
-* location: If an age + location combination is highly specific and could identify an individual, it would be marked as TRUE. However, based on the provided data, this is not the case.
-
-In summary, only one column contains PII: "email".
+company_public_response - FALSE
+consumer_complaint_narrative - TRUE
+company - TRUE
+date_received - FALSE
+date_sent_to_company - FALSE
+issued_via - FALSE
+product_sub_product_issue_sub_issue_tags_consumer_consent_provided_submitted_via_date_sent_to_company_company_response_to_consumer_timely_response_consumer_disputed?complaint_id - FALSE
 ----------------------------------------

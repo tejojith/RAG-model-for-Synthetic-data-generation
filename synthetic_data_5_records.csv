@@ -1,0 +1,6 @@
+date_received,product,sub_product,issue,sub_issue,consumer_complaint_narrative,company_public_response,company,state,zipcode,tags,consumer_consent_provided,submitted_via,date_sent_to_company,company_response_to_consumer,timely_response,consumer_disputed?,complaint_id
+12/14/2021,Credit card,"Visa credit",Payment and billing,Payment issues,,Capital One Financial Corporation,NJ,08053,,,Referral,01/05/2022,No Answer,Yes,No,990123
+05/17/2022,Credit card,,Unauthorized transactions,"Fraudulent charges",,,,Capital One Financial Corporation,NJ,07102,,,,Referral,06/10/2022,Closed with explanation,Yes,No,6501234
+07/23/2019,Bank account or service,Savings account,"Interest rates and fees","",,,,Wells Fargo & Company,TX,75251,,,,Postal mail,08/14/2019,Closed with explanation,Yes,Yes,5104567
+10/12/2020,Mortgage,,Loan application,"Pre-approval and processing",,,,PNC Bank,NY,10001,,,,Referral,11/05/2020,Closed with explanation,No,Yes,5512345
+06/15/2018,Bank account or service,Automated clearing house (ACH),Transaction issues,"Direct deposit problems","",,,,Bank of America,FL,33161,,,,Phone call,07/17/2018,Closed with explanation,Yes,No,5107890

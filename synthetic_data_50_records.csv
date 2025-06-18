@@ -1,0 +1,51 @@
+date_received,product,sub_product,issue,sub_issue,consumer_complaint_narrative,company_public_response,company,state,zipcode,tags,consumer_consent_provided,submitted_via,date_sent_to_company,company_response_to_consumer,timely_response,consumer_disputed?,complaint_id
+08/27/2021,Credit card,"Credit limit and payment",Payment processing,,,,Bank of America,NY,10021,,,Phone,09/01/2021,Closed with explanation,Yes,No,5234567
+03/22/2019,Bank account or service,Savings account,"Account fees and charges",,,,Wells Fargo & Company,CA,94117,,,Referral,04/05/2019,Closed with explanation,Yes,No,5137890
+07/02/2022,Mortgage,"Mortgage application process",Pre-approval and approval,,,,U.S. Bancorp,TX,75252,,,Phone,08/03/2022,Closed with explanation,Yes,Yes,5256783
+12/15/2017,Bank account or service,Checking account,"Account opening and closing",,,,Bank of America,NJ,07030,,,Postal mail,01/22/2018,Closed with explanation,No,No,5087654
+02/14/2020,Credit reporting,,Incorrect information on credit report,Acknowledgment and verification,,,,TransUnion,FL,33133,,,Phone,03/17/2020,Closed with explanation,Yes,No,5145679
+09/12/2022,Bank account or service,Savings account,"Withdrawal issues,,,,Wells Fargo & Company,NY,10021,,,Referral,10/17/2022,Closed with explanation,Yes,No,1234567
+04/20/2019,Mortgage,"Home equity line of credit",Credit card application processing errors,Bad credit score,U.S. Bank Corporation,CA,94560,Payment issues,,Postal mail,05/22/2019,Closed with explanation,Yes,No,2345678
+03/15/2020,Trip and travel arrangements,Hotel reservation,"Room not ready,cleanliness",Overbooking issue,Hilton Worldwide Holdings Inc.,FL,33101,,,Referral,04/30/2020,Closed with explanation,Yes,No,3456789
+02/28/2017,Bank account or service,Mortgage,"Loan modification,collection,foreclosure",Late payment fees,Wells Fargo & Company,NY,11764,Payment issues,,Postal mail,03/31/2017,Closed with explanation,Yes,No,4567890
+11/25/2021,Trip and travel arrangements,Airline reservation,"Delayed flight,lost luggage",Flight cancellation,British Airways Plc.,CA,94116,,,Referral,12/15/2021,Closed with explanation,Yes,No,5678901
+2023-07-25,Mortgage,"Mortgage broker",Loan modification,collection,,,,Bank of America,NY,10021,,Referral,2023-08-01,Closed with explanation,Yes,No,1234567
+2019-02-18,Bank account or service,"Savings account",Withdrawal limit,,,,U.S. Bancorp,TX,78704,Miscellaneous issue,Postal mail,2019-03-15,Closed with explanation,Yes,Yes,2345678
+2022-11-14,Fraud,,Credit card fraud,,,,Chase Bank,NJ,08906,,Referral,2022-12-05,Closed with explanation,No,No,3456789
+2021-09-28,Bank account or service,"Checking and savings",Account closure,,,,Wells Fargo & Company,CA,92117,Miscellaneous issue,Phone call,2021-10-15,Closed with explanation,Yes,No,4567890
+2018-04-16,Fraud,,Phishing scam,,,,Bank of America,NY,10561,,Referral,2018-05-01,Closed with explanation,Yes,No,5678901
+2023-02-22,Mortgage,"Mortgage servicing",Payment processing,,,,Chase Bank,TX,76117,,Postal mail,2023-03-15,Closed with explanation,Yes,No,6789012
+2017-10-12,Bank account or service,"Credit card",Interest rate,,,,U.S. Bancorp,NJ,08052,Miscellaneous issue,Phone call,2017-11-01,Closed with explanation,Yes,Yes,7890123
+2020-06-05,Fraud,,Identity theft,,,,Wells Fargo & Company,CA,94043,,Referral,2020-07-15,Closed with explanation,No,No,8901234
+12/25/2022,Mortgage,Purchase,"Mortgage insurance coverage",,,,Bank of America,NY,10001,Taxes,Bank mail,12/28/2022,Closed with explanation,Yes,No,12345678
+02/15/2019,Insurance,Health "Medical claim denial","Prescription medication treatment",,,,State Farm Insurance,CA,94105,"Payment issues",Phone call,03/04/2019,Closed with explanation,Yes,Yes,98765432
+07/12/2021,Bank account or service,Savings account,,Withdrawal limits,,,,Chase Bank,NJ,07030,Taxes,Email correspondence,08/10/2021,Closed with explanation,No,No,90123456
+02/22/2021,Credit reporting,,Credit score mistake,,Incorrect information on credit report,"Consumer had wrong credit score. Company corrected.",Experian,NJ,07039,,,,Email,03/05/2021,No response,Yes,621011
+10/28/2019,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,TX,78213,,,,Phone call,11/04/2019,Closed with explanation,Yes,Yes,591025
+03/15/2020,Bank account or service,Savings account,,Withdrawal issues,"Consumer had trouble withdrawing funds. Bank resolved issue.",JPMorgan Chase,FL,33301,,,Referral,03/20/2020,No response,Yes,620302
+07/21/2018,Credit reporting,,Identity theft detected,,Unauthorized transactions,"Company notified consumer of suspicious activity on credit report.",Equifax,CA,94117,,,,Postal mail,08/02/2018,No response,Yes,580704
+04/12/2022,Bank account or service,Savings account,,Overdraft fees,,Consumer had overdraft fee issues. Bank waived fee.,Bank of America,NY,10021,,,Phone call,04/19/2022,Closed with explanation,Yes,No,720401
+01/15/2022,Credit card,"Credit limit and interest rate",Payment processing,,,,Capital One,FL,33143,,,Referral,02/03/2022,No response,Yes,1234567
+07/25/2019,Bank account or service,Savings account,"Deposit and withdrawal issues",,,,,Chase Bank,NJ,07030,,,Postal mail,08/10/2019,Closed with explanation,Yes,Yes,9876543
+06/28/2018,Mortgage,Other mortgage,"Property taxes and insurance",,,,,Wells Fargo & Company,TX,75231,,,Referral,07/09/2018,No response,Yes,1112345
+04/20/2020,Bank account or service,Credit card,"Credit limit increase denial",,,,,Bank of America,NY,10016,,,Referral,05/06/2020,Closed with explanation,Yes,Yes,2223456
+02/14/2021,Mortgage,Purchase mortgage,"Loan processing and closing issues",,,,,U.S. Bank,CA,92117,,,Postal mail,03/04/2021,No response,Yes,7890123
+09/12/2017,Bank account or service,Savings account,,Transfer issue,,,,,,,,JPMorgan Chase,IL,60093,,,Referral,10/06/2017,Closed with explanation,Yes,Yes,3456789
+08/01/2015,Mortgage,FHA mortgage,"Loan modification and foreclosure",,,,,Wells Fargo & Company,NY,12345,,,Postal mail,09/03/2015,No response,Yes,7654321
+05/25/2022,Credit card,"Credit account",Interest rate,,,Bank of America,CA,94115,,Referral,06/01/2022,Pending,Yes,No,620001
+02/14/2019,Mortgage,"Mortgage application",Processing time,,,,Wells Fargo & Company,NY,10021,Fax Referral,03/11/2019,Closed with explanation,Yes,Yes,590002
+10/12/2017,Bank account or service,Savings account,,Withdrawal limitations,,,Citibank,FL,33133,Mailing,11/15/2017,Pending,No,Yes,710003
+08/27/2020,Telco,"Phone and internet",Service outage,,,,AT&T Services,NJ,07030,Fax Referral,09/03/2020,Closed with explanation,Yes,No,800004
+04/02/2015,Mortgage,"Mortgage servicing",Payment processing,,,U.S. Bancorp,OH,45242,,Referral,05/06/2015,Pending,Yes,No,510005
+07/10/2021,Bank account or service,Money market fund,Interest rate,,,,JPMorgan Chase & Co.,TX,77002,Mailing,08/12/2021,Closed with explanation,Yes,Yes,710006
+03/19/2018,Telco,"Phone and internet",Bill payment,,,Verizon Communications,NY,10014,Fax Referral,04/17/2018,Pending,No,Yes,580007
+09/25/2019,Bank account or service,Certificate of deposit,,CD rollover,,,,PNC Bank,PA,19103,Mailing,10/29/2019,Pended with explanation,Yes,No,990008
+09/15/2022,Credit card,"Credit limit and interest rate",Payment processing,,Wells Fargo & Company,NV,89014,,,Phone call,10/02/2022,No response,Yes,223421
+07/25/2019,Bank account or service,Savings account,Fees and charges,,,,Bank of America,TX,77098,,,Referral,08/01/2019,Closed with explanation,Yes,No,211112
+11/14/2017,Mortgage,"Loan application and approval",Closing process,,U.S. Bancorp,WI,53202,,,Email,12/05/2017,Fully resolved,Yes,No,219101
+06/10/2020,Bank account or service,Credit card,Interest rates,,,,Chase Bank,NM,87123,,,Postal mail,07/15/2020,Closed with explanation,Yes,Yes,222311
+03/18/2015,Mortgage,"Loan modification and forgiveness",Servicing issues,,Wells Fargo & Company,FL,33301,,,Phone call,04/05/2015,Fully resolved,Yes,No,219205
+09/15/2022,Bank account or service,Savings account,"Interest rates,,fees",Account management,,,Capital One Financial Corporation,NJ,07055,,,,Referral,10/02/2022,Closed with explanation,Yes,No,6251215
+10/15/2022,Mortgage,"Home equity line of credit",Insufficient funds,,,PNC Bank,OH,43206,,,,Referral,11/02/2022,Closed with explanation,Yes,No,2211234
+12/28/2019,Bank account or service,"Savings account, certificates of deposit (CDs)",,,Wells Fargo & Company,NJ,08536,,,,,,,,No,1912145
+01/10/2020,Credit reporting,"Credit score and report",Multiple credit inquiries,,,Citibank,TX,75252,,,,Postal mail,02/05/2020,No explanation,Yes,Yes,2001017

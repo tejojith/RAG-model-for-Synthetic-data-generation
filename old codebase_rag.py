@@ -109,15 +109,15 @@ class CodebaseRAG:
             f.write(new)
         print(f"Data saved to {output_file}")
         
-    def get_loader(file_path):
-        if file_path.endswith('.py'):
-            return PythonLoader(file_path)
-        elif file_path.endswith('.json'):
-            return JSONLoader(file_path)
-        elif file_path.endswith('.html'):
-            return BSHTMLLoader(file_path)
-        else:
-            return TextLoader(file_path)
+    # def get_loader(file_path):
+    #     if file_path.endswith('.py'):
+    #         return PythonLoader(file_path)
+    #     elif file_path.endswith('.json'):
+    #         return JSONLoader(file_path)
+    #     elif file_path.endswith('.html'):
+    #         return BSHTMLLoader(file_path)
+    #     else:
+    #         return TextLoader(file_path)
 
     def create_embeddings_and_store(self):
         # Load documents (optimized version)
